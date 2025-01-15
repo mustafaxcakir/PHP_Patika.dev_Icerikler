@@ -31,3 +31,5 @@ INSERT INTO `users` (`isim`, `gsm`, `eposta`, `sehir`, `grup`, `posta_kodu`, `ya
 ('Leyla Kaya', '05361234568', 'leyla.kaya@example.com', 'Tekirdağ', 'B', '59000', 30),
 ('Onur Demirtaş', '05671239878', 'onur.demirtas@example.com', 'Van', 'C', '65000', 27),
 ('Nazlı Güner', '05081234566', 'nazli.guner@example.com', 'Erzurum', 'A', '25000', 32);
+
+Mysql sorgu için örnek veriler
