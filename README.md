@@ -1,0 +1,3 @@
+Patika.dev PHP Temel Eğitim Serisi
+
+Kodları kendi anlayacağım şekilde notlarla yazdığım için anlamsız gelebilir fakat içerikleri genel anlamda tamamıyla görmek için belki ihtiyacınız olabilir diye paylaşmak istedim...
