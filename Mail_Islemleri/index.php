@@ -39,7 +39,6 @@ try {
     $mail->addReplyTo('info@example.com', 'Information'); //Alıcı cevapla dediğinde mailin gideceği adres.
     $mail->addCC('cc@example.com'); // Bilgi Kişisi
     $mail->addBCC('bcc@example.com'); // Gizli Bilgi Kişisi
-    $mail->CharSet = 'UTF-8'
     //Attachments
     $mail->addAttachment('/var/tmp/file.tar.gz');         //Dosya Eki
     $mail->addAttachment('/tmp/image.jpg', 'new.jpg');    //Dosya Eki İsimlendirmeli
@@ -55,3 +54,5 @@ try {
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
+
+?>
